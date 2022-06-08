@@ -1,6 +1,5 @@
-package gibeom.study.java8to11.javaFunctionalInterface;
+package gibeom.study.java8to11.Chapter1.javaFunctionalInterface;
 
-import java.util.function.BiFunction;
 import java.util.function.BinaryOperator;
 
 public class BinaryOperatorExam {

@@ -1,6 +1,4 @@
-package gibeom.study.java8to11.lambdaExpression;
-
-import gibeom.study.java8to11.함수형인터페이스_람다표현식.Foo;
+package gibeom.study.java8to11.Chapter1.lambdaExpression;
 
 import java.util.function.*;
 
@@ -15,7 +13,7 @@ public class LambdaExam {
             - 인자가 한개일 때 : (i) or i
             - 인자가 여러개일 떄 : (i, j, k)
             - 인자의 타입은 컴파일러가 추론할 수 있어 생략이 가능하지만 명시할 수 도 있음
-            - ex : (Integer i, Integer J)
+            - ex : (Integer i, Integer j)
 
             바디
             - 화살표 오른쪽에 함수 본문을 정의함

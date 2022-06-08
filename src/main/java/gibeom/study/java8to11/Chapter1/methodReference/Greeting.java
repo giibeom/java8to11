@@ -1,4 +1,4 @@
-package gibeom.study.java8to11.methodReference;
+package gibeom.study.java8to11.Chapter1.methodReference;
 
 public class Greeting {
 

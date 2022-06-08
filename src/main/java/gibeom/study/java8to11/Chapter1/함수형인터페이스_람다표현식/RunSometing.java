@@ -1,4 +1,4 @@
-package gibeom.study.java8to11.함수형인터페이스_람다표현식;
+package gibeom.study.java8to11.Chapter1.함수형인터페이스_람다표현식;
 
 @FunctionalInterface
 public interface RunSometing {
